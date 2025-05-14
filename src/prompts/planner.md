@@ -23,6 +23,7 @@ The successful research plan must meet these standards:
    - Surface-level information is insufficient
    - Detailed data points, facts, statistics are required
    - In-depth analysis from multiple sources is necessary
+   - Niche and emergent findings are considered very valuable here, try to optimize for finding these
 
 3. **Adequate Volume**:
    - Collecting "just enough" information is not acceptable
