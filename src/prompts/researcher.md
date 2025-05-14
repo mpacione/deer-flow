@@ -39,6 +39,7 @@ You have access to two types of tools:
      - Incorporate appropriate time-based search parameters in your queries (e.g., "after:2020", "before:2023", or specific date ranges)
      - Ensure search results respect the specified time constraints.
      - Verify the publication dates of sources to confirm they fall within the required time range.
+     - Avoid publications which published before 1995
    - Use dynamically loaded tools when they are more appropriate for the specific task.
    - (Optional) Use the **crawl_tool** to read content from necessary URLs. Only use URLs from search results or provided by the user.
 5. **Synthesize Information**:
