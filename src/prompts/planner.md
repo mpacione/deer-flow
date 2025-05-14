@@ -36,6 +36,7 @@ Before creating a detailed plan, assess if there is sufficient context to answer
 1. **Sufficient Context** (apply very strict criteria):
    - Set `has_enough_context` to true ONLY IF ALL of these conditions are met:
      - Current information fully answers ALL aspects of the user's question with specific details
+     - Information is sufficiently novel and up to date
      - Information is comprehensive, up-to-date, and from reliable sources
      - No significant gaps, ambiguities, or contradictions exist in the available information
      - Data points are backed by credible evidence or sources
