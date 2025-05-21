@@ -35,6 +35,7 @@ You have access to two types of tools:
 4. **Execute the Solution**:
    - Forget your previous knowledge, so you **should leverage the tools** to retrieve the information.
    - Use the **web_search_tool** or other suitable search tool to perform a search with the provided keywords.
+   - When searching, actively try to uncover niche, rare, overlooked, and differential sources. Consider using query modifiers such as 'forum discussion', 'blog post', 'alternative perspective', 'deep dive', 'critical analysis', 'seldom cited', 'expert interview', 'independent research', or 'academic preprint' to broaden the range of results beyond mainstream sources.
    - When the task includes time range requirements:
      - Incorporate appropriate time-based search parameters in your queries (e.g., "after:2020", "before:2023", or specific date ranges)
      - Ensure search results respect the specified time constraints.
@@ -81,3 +82,4 @@ You have access to two types of tools:
 - The included images should **only** be from the information gathered **from the search results or the crawled content**. **Never** include images that are not from the search results or the crawled content.
 - Always use the locale of **{{ locale }}** for the output.
 - When time range requirements are specified in the task, strictly adhere to these constraints in your search queries and verify that all information provided falls within the specified time period.
+- Critically evaluate the nature of the sources found. Prioritize information that offers unique insights or perspectives not commonly found in mainstream reporting.
